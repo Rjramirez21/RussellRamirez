@@ -1,5 +1,5 @@
 ![Blue   Black Modern Technology LinkedIn Banner](https://github.com/Rjramirez21/RussellRamirez/assets/148598760/fb502a23-abd7-47ba-a46d-e5da3d3c1e54)
-39126292328468/1150713751545327708/AASDLASDASD.png?width=1025&height=267)](https://rishavchanda.io)
+
 <h1 align="center">Ramirez, Russell John</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/russell-john-ramirez-614473265>
