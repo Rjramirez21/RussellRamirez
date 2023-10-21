@@ -32,17 +32,20 @@
                    Cognitive Class <br>
                    September 10, 2023 </center></p>
 <p align ="left">
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9C9E664CDAE6263E64C19578F858D27149CD9A9C4708E4CDE6EC07D24B2E287B&fbclid=IwAR35LNBhQmNWmxbKfIlm8KlbDVzr-x4yJ-7gHOF3ixLRDIVSSbIZyummgek"><br> Big Data 101</a> <br>
+<a href="https://courses.cognitiveclass.ai/certificates/7184a55982eb4b81bb8aa6b83730c5b6"><br> Big Data 101</a> <br>
                    IBM Developer Skills Network. <br>
                    September 10, 2023</center><br></p>
                  
 <p align ="left">
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0EB79B5FF329CC2E00E4282868C8DF999A79A88FAE3250C3E77CABF51C8EBDE4&fbclid=IwAR3XS1StGkj_o3_VNGUu7QjDDqPmmgi2tFNkKzXpby2Rud4vck-bMULkapQ#"><br> Prompt Engineering for ChatGPT</a> <br>
+<a href="https://courses.cognitiveclass.ai/certificates/f95b128e11004e9fb094fc51db72fda5"><br> Prompt Engineering for Everyone</a> <br>
+                  Cogntive class <br>
+                   September 10, 2023 </center><br></p>
+                  <p align ="left">
+<a href="https://coursera.org/verify/4QX4BLMHB86H"><br>  Prompt Engineering for ChatGPT</a> <br>
                   Vanderbilt University <br>
-                   September 11, 2023 </center><br></p>
-                  
+                   September 10, 2023 </center><br></p>
 <p align ="left">
-<a href="https://courses.cognitiveclass.ai/certificates/cc986a107d5a4ebbb18a7235d65735de"><br>Data Engineering for Everyone</a> <br>
+<a href=""><br>Data Engineering for Everyone</a> <br>
                    Data Camp <br>
                    April 27, 2022 </center><br></p>
               
@@ -53,19 +56,19 @@
                September 9, 2023 </center><br></p>
                     </center></p>
   <p align ="left">
-<a href="https://courses.cognitiveclass.ai/certificates/cc986a107d5a4ebbb18a7235d65735de"><br> Oracle Cloud Infrastructure 2023 Certified Foundations Associate</a> <br>
+<a href="https://drive.google.com/file/d/1Bse4xBYokF53-AdZX7JE9DFGXMHPlF8i/view?usp=sharing"><br> Oracle Cloud Infrastructure 2023 Certified Foundations Associate</a> <br>
                    Cognitive Class <br>
                    September 9, 2023 </center><br></p>
   <p align ="left">
-<a href="https://courses.cognitiveclass.ai/certificates/cc986a107d5a4ebbb18a7235d65735de"><br>Data Privacy Fundamentals</a> <br>
+<a href="https://courses.cognitiveclass.ai/certificates/402f4159a83c45a2b709edf5fff04d06"><br>Data Privacy Fundamentals</a> <br>
                    Cognitive Class <br>
                    September 9, 2023 </center><br></p>
  <p align ="left">
-<a href="https://courses.cognitiveclass.ai/certificates/cc986a107d5a4ebbb18a7235d65735de"><br>Data Science 101</a> <br>
+<a href="https://courses.cognitiveclass.ai/certificates/ca5e18495e984b38a380482aa048bb4a"><br>Data Science 101</a> <br>
                    Cognitive Class <br>
                    September 10, 2023 </center><br></p>
  <p align ="left">
-<a href="https://courses.cognitiveclass.ai/certificates/cc986a107d5a4ebbb18a7235d65735de"><br>Deep Learning Fundamentals</a> <br>
+<a href="https://courses.cognitiveclass.ai/certificates/84a55f4ec1964a02b317fe2e035925ab"><br>Deep Learning Fundamentals</a> <br>
                    Cognitive Class <br>
                    September 10, 2023 </center><br></p>                   
 
